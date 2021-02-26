@@ -3,7 +3,7 @@ A Simple Download Manager written in Hascal
 
 ## Build
 ```bat
-git clone https://github.com/hasan-kashi/Haria-Download-Manager.git
+git clone https://github.com/hasan-kashi/Haria-Download-Manager
 cd Haria-Download-Manager
 hascal haria.has
 ```
