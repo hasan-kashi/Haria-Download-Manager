@@ -14,6 +14,13 @@ Download a file :
 haria download https://example.com/myfile.zip
 ```
 
+Set default download path :
+```
+haria setpath <your_path>
+# for example :
+haria setpath D:\\Downloads
+```
+
 Show download history :
 ```
 haria history
@@ -27,13 +34,6 @@ haria help
 Show version :
 ```
 haria version
-```
-
-Set default download path :
-```
-haria setpath <your_path>
-# for example :
-haria setpath D:\\Downloads
 ```
 
 ## License
