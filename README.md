@@ -28,3 +28,10 @@ Show version :
 ```
 haria version
 ```
+
+Set default download path :
+```
+haria setpath <your_path>
+# for example :
+haria setpath D:\\Downloads
+```
